@@ -1,0 +1,13 @@
+# Terraform directories
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Variable files (may contain secrets)
+*.tfvars
+
+# Keys
+*.pem
+*.ppk
